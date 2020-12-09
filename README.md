@@ -4,7 +4,7 @@ NodePingManageDocker
 描述
 ------------
 本项目是NodePingManage的Docker化版本， 如果你没有python环境，但是熟悉docker，用这个吧。
-
+FROM: https://github.com/hongfeioo/npmdocker
 
 
 服务器环境
